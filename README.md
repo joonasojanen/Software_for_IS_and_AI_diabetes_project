@@ -16,7 +16,7 @@ cd Software_for_IS_and_AI_diabetes_project
 
 ## Data
 
-- Download the dataset manually from kaggle and place it in the same folder as this file
+- Download the dataset manually from kaggle and place it in the same folder with the project files
 - Dataset url: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
 
 ## Environment Setup (Kernel)
