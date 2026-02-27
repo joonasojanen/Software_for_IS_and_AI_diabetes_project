@@ -14,6 +14,11 @@ git clone https://github.com/joonasojanen/Software_for_IS_and_AI_diabetes_projec
 cd Software_for_IS_and_AI_diabetes_project
 ```
 
+## Data
+
+- Download the dataset manually from kaggle and place it in the same folder as this file
+- Dataset url: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
+
 ## Environment Setup (Kernel)
 
 ### Install required tools
