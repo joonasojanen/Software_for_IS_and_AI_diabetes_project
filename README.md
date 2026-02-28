@@ -55,6 +55,8 @@ python -m ipykernel install --user --name diabetes-mvp --display-name "Python (d
 ## Running the UI after running the script
 
 1. Make sure you have saved the models "diabetes_logreg_pipeline.joblib"
+   
+Open the concole and make sure you are in the project folder then run the following commands ->
 
 ``` bash
 conda activate diabetes-mvp
