@@ -24,7 +24,7 @@ cd Software_for_IS_and_AI_diabetes_project
 ### Install required tools
 
 Download and install: 
-- Anaconda or Miniconda3
+- Anaconda or Miniconda3 to Windows or Linux or macOS
 - VS Code
 
 ### VS Code Extensions
@@ -56,7 +56,7 @@ python -m ipykernel install --user --name diabetes-mvp --display-name "Python (d
 
 1. Make sure you have saved the models "diabetes_logreg_pipeline.joblib"
    
-Open the concole and make sure you are in the project folder then run the following commands ->
+Open the terminal (bash or PS) and make sure you are in the project folder then run the following commands ->
 
 ``` bash
 conda activate diabetes-mvp
